@@ -1,3 +1,5 @@
 Hello Git
 learning Git
 Git is awsome
+Learning Git Day 2
+Today I learned Git
